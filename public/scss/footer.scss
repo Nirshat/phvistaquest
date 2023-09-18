@@ -1,0 +1,20 @@
+
+.footer-box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  grid-gap:6px;
+  padding:2rem;
+  background:#444;
+}
+
+.footer-box{
+  #credits{
+    font-size:15px;
+  }
+
+  #techs{
+    font-size:14px;
+  }
+}
